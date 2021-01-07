@@ -1,0 +1,29 @@
+h1{
+    font-size: 50px;
+}
+.name-highlight{
+    color: brown;
+}
+.highlight{
+    color: purple;
+}
+.half-width{
+    width: 40%;
+    float: left;
+    margin-left: 5%;
+    padding-left: 2%;
+}
+.half-width img{
+    width: 100%;
+}
+.link-button{
+    text-decoration: none;
+    background-color: orange;
+    padding: 10px 20px ;
+    border-radius: 10px;
+    color: white;
+    font-weight: 700;
+}
+.background{
+    background-image: url(images/background1.jpg);
+}
